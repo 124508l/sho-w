@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -101,41 +101,41 @@
 	<body background="looker/mask.jpg">
 		<div class="obox" >
 			<div >
-			<img src="b1.jpg"/>
+			<img src="img/b1.jpg"/>
 			</div>
 			<div >
-				<img src="a6.jpg"/>
+				<img src="img/a6.jpg"/>
 			</div>
 			<div >
-				<img src="a8.jpg"/>
+				<img src="img/a8.jpg"/>
 			</div>
 			<div >
-				<img src="a9.jpg"/>
+				<img src="img/a9.jpg"/>
 			</div>
 			<div >
-				<img src="b4.png" />
+				<img src="img/b4.png" />
 			</div>
 			<div >
-				<img src="b5.png" />
+				<img src="img/b5.png" />
 			</div>
 			
 			<div>
-				<img src="a7.jpg"/>
+				<img src="img/a7.jpg"/>
 			</div>
 			<div>
-				<img src="a1.jpg"/>
+				<img src="img/a1.jpg"/>
 			</div>
 			<div>
-				<img src="a2.jpg"/>
+				<img src="img/a2.jpg"/>
 			</div>
 			<div>
-				<img src="a3.jpg"/>
+				<img src="img/a3.jpg"/>
 			</div>
 			<div>
-				<img src="a4.jpg"/>
+				<img src="img/a4.jpg"/>
 			</div>
 			<div>
-				<img src="a5.jpg"/>
+				<img src="img/a5.jpg"/>
 			</div>
 			
 		</div>
